@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b164d83b-c082-45c6-9d92-1f1962cb2bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4/posts/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/4/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/mb_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/mb_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/posts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/posts/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/posts/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/posts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/posts/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/posts/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +12,13 @@
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,7 +81,7 @@
       <updated>1617990870202</updated>
       <workItem from="1617990871293" duration="533000" />
       <workItem from="1618153007094" duration="3787000" />
-      <workItem from="1625414655153" duration="1783000" />
+      <workItem from="1625414655153" duration="3729000" />
     </task>
     <task id="LOCAL-00001" summary="templates, test cases added">
       <created>1618156254259</created>
