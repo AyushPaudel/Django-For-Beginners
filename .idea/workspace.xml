@@ -2,43 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b164d83b-c082-45c6-9d92-1f1962cb2bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/mb_project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/mb_project/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/mb_project/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/mb_project/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/mb_project/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/posts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/posts/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/posts/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/posts/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/posts/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/posts/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/posts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DjangoForBeginners.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoForBeginners.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/posts/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/Pipfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/Pipfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/helloworld_project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/helloworld_project/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/helloworld_project/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/helloworld_project/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/helloworld_project/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/pages/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/pages/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/pages/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/pages/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/pages/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/pages/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/pages/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/pages/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/templates/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/templates/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/4/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/mb_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/mb_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/posts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/posts/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/posts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/posts/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -108,7 +80,7 @@
       <updated>1617990870202</updated>
       <workItem from="1617990871293" duration="533000" />
       <workItem from="1618153007094" duration="3787000" />
-      <workItem from="1625414655153" duration="276000" />
+      <workItem from="1625414655153" duration="1783000" />
     </task>
     <task id="LOCAL-00001" summary="templates, test cases added">
       <created>1618156254259</created>
