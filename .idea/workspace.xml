@@ -2,21 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b164d83b-c082-45c6-9d92-1f1962cb2bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5/accounts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/accounts/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/accounts/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/accounts/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/accounts/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/accounts/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/accounts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/accounts/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/templates/registration/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/newspaper_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/newspaper_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/newspaper_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/newspaper_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/newspaper_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/blog_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/5/blog_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/blog_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/5/blog_project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/5/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/5/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1qwVvTOigUMczzM6OQGxCFWYkLk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -96,7 +108,7 @@
       <workItem from="1617990871293" duration="533000" />
       <workItem from="1618153007094" duration="3787000" />
       <workItem from="1625414655153" duration="4301000" />
-      <workItem from="1625476542049" duration="12146000" />
+      <workItem from="1625476542049" duration="15588000" />
     </task>
     <task id="LOCAL-00001" summary="templates, test cases added">
       <created>1618156254259</created>
