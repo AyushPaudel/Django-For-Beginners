@@ -1,5 +1,3 @@
-# ayushoo7 :admin123@
-
 from django.db import models
 
 class Post(models.Model):
