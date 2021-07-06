@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b164d83b-c082-45c6-9d92-1f1962cb2bb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/8/acc_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/templates/registration/password_reset_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/templates/registration/password_reset_subject.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/8/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8/newspaper_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/8/newspaper_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8/templates/registration/password_change_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/8/templates/registration/password_change_done.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8/templates/registration/password_change_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/8/templates/registration/password_change_form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +96,7 @@
       <workItem from="1618153007094" duration="3787000" />
       <workItem from="1625414655153" duration="4301000" />
       <workItem from="1625476542049" duration="16812000" />
-      <workItem from="1625554461360" duration="8950000" />
+      <workItem from="1625554461360" duration="14043000" />
     </task>
     <task id="LOCAL-00001" summary="templates, test cases added">
       <created>1618156254259</created>
